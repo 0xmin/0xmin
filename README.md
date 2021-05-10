@@ -6,8 +6,8 @@
 #### 🤵 About Me:
 
 - 🐶 I‘m a member of D0g3 Security Laboratory
-- 🌱 I’m currently learning Java Web Security 、ATT&CK
-- 🤔 I’m looking for help with Code audit、BugBounty
+- 🌱 I’m currently learning Java Web Security 、Static code analysis
+- 🤔 I’m looking for help with BugBounty
 
 
 <p align="center">
