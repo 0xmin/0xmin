@@ -1,13 +1,7 @@
-### Hi 👋, I'm Min
+### Hi, I'm Min
 
 
 <img align="right" alt="GIF" src="https://github.com/M13nSec/M13nSec/blob/main/GIF.gif?raw=true" width="350" height="250"/>
-
-#### 🤵 About Me:
-
-- 🐶 I‘m a member of D0g3 Security Laboratory
-- 🌱 I’m currently learning Java Web Security 、Static code analysis
-- 🤔 I’m looking for help with BugBounty
 
 
 <p align="center">
